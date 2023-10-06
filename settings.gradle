@@ -1,2 +1,3 @@
 rootProject.name = 'redis-publisher-subscriber'
 include 'publisher-service'
+include 'subscriber-service'
